@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+pymupdf
+python-docx
+pdfplumber
+sqlalchemy
+reportlab
+python-multipart
+pydantic
+python-dotenv
+requests
+google-generativeai
+plotly
+pandas
